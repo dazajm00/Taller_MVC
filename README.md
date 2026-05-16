@@ -1,4 +1,5 @@
-##Integrantes
+Integrantes
 
-#Juan Manuel Daza
-#Camila Rodriguez
+- Juan Manuel Daza
+
+- Camila Rodriguez
